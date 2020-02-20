@@ -1,0 +1,20 @@
+{
+  "title": "SuperMemo 中文版文档",
+  "author": "若非",
+  "description": "Learn fast and forget about forgetting",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "links": {
+    "sidebar": {
+      "主页": "https://ruofei.site/"
+    }
+  },
+  "structure": {
+    "readme": "INTRO.md",
+    "glossary": "GLOSSARY.md"
+  },
+  "plugins": [
+    "-sharing"
+  ]
+}
+  
